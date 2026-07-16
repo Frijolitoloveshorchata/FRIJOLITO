@@ -1,25 +1,25 @@
-<h1 align="center">Hola, soy Frijolito 👋</h1>
+<h1 align="center">🛠️ Frijolito & Snoopy</h1>
 
 <p align="center">
-  Estudiante de bachillerato apasionado por la tecnología y el hardware.
+  <img src="https://img.shields.io/badge/Estado-En%20desarrollo-yellow" alt="Estado">
+  <img src="https://img.shields.io/badge/Sonora-México-blue" alt="Location">
+  <img src="https://img.shields.io/badge/DIY%20%26%20Hardware-orange" alt="Tech">
 </p>
 
-### Sobre mí
-- Me llamo **Jose Emiliano**, pero todos me dicen **Frijolito**
-- Vivo en Sonora, México
-- Me gusta desarmar laptops, entender cómo funcionan las cosas por dentro y hacer proyectos DIY
-- Actualmente estoy convirtiendo una pantalla vieja de laptop en un monitor portátil
+### ¡Hola! 
+Soy **Jose Emiliano (Frijolito)**, estudiante de bachillerato en Sonora, México.  
+Me gusta desarmar cosas, armar PCs y aprender tecnología de forma práctica.
 
 ### Proyectos destacados
-- **[DIY Portable Monitor](https://github.com/Frijolitoloveshorchata/DIY-Portable-Monitor-B156XTK01)** — Reutilizando hardware de laptop
-- **[Frijolito-OS-Plymouth](https://github.com/Frijolitoloveshorchata/Frijolito-OS-Plymouth)** — Tema de arranque personalizado para Linux Mint
+- **[DIY Portable Monitor](https://github.com/Frijolitoloveshorchata/DIY-Portable-Monitor-B156XTK01)** — Pantalla de laptop convertida en monitor portátil
+- **[Frijolito-OS-Plymouth](https://github.com/Frijolitoloveshorchata/Frijolito-OS-Plymouth)** — Tema de arranque para Linux Mint
 
 ### Intereses
-- Hardware y reparación de dispositivos
-- Armar PCs (gamer o de oficina)
-- Linux y personalización
-- Proyectos prácticos y aprendizaje hands-on
+- 🛠️ Hardware y reparación
+- 💻 Armar PCs (gamer o de oficina)
+- 🐧 Linux y personalización
+- 🔧 Proyectos DIY
 
 ---
 
-*"Aprendiendo una cosa a la vez, desarmando y armando"* 🛠️
+*"Aprendiendo una cosa a la vez, con Snoopy a mi lado"* • Sonora, México • 2026
