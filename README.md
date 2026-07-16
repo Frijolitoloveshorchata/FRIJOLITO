@@ -1,7 +1,7 @@
 <h1 align="center">Frijolito</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Frijolitoloveshorchata/FRIJOLITO/main/snoopy.png" width="120" alt="Snoopy">
+  <img width="500" height="250" alt="snoopy_PNG32-2305669936" src="https://github.com/user-attachments/assets/4523f8fb-95fe-4a66-9065-45867881b367" />
 </p>
 
 <p align="center">
